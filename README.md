@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A2E,100:7BA05B&height=190&section=header&text=Monje%20Pohl&fontSize=48&fontColor=ffffff&desc=Software%20engineering,%20by%20way%20of%20viticulture&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Monje Pohl" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:74C69D&height=210&section=header&text=Monje%20Pohl&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Software%20engineering,%20by%20way%20of%20viticulture&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Monje Pohl" />
 </div>
 
 I came to software engineering through agriculture. My MSc in Viticulture at Stellenbosch involved writing custom image-processing algorithms to measure morphological and colourimetric traits across 1,416 individual grapevines, and running the multivariate analysis that made sense of the results. Writing that analysis is what got me into software development.
